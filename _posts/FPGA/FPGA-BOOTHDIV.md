@@ -1,7 +1,7 @@
 ---
 title: 无符号除法器的verilog实现
-tag: FPGA
-categories: 技术
+tag: verilog
+categories: fpga
 ---
 
 无符号符号器的verilog实现

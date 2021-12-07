@@ -1,7 +1,7 @@
 ---
 title: FPGA-RISCV内核入门3
 tag: riscv
-categories: 技术
+categories: FPGA
 ---
 
 接下来我们就开始正式的设计RISCV cpu了

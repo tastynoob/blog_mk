@@ -1,6 +1,6 @@
 ---
 title: 移植LVGL
-tag: model
+tag: module
 categories: 框架
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: BOOTH乘法器的verilog实现
-tag: FPGA
-categories: 技术
+tag: verilog
+categories: fpga
 ---
 
 BOOTH乘法器的verilog实现

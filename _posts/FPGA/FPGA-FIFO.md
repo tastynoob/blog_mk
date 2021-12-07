@@ -1,7 +1,7 @@
 ---
 title: FPGA-可配置的FIFO模块
-tag: FPGA
-categories: 技术
+tag: verilog
+categories: fpga
 ---
 
 FPGA-可配置的FIFO模块

@@ -1,7 +1,7 @@
 ---
 title: FPGA-RISCV内核入门5
 tag: riscv
-categories: 技术
+categories: FPGA
 ---
 
 译码段设计

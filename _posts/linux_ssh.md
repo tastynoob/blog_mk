@@ -1,6 +1,7 @@
 ---
 title: vscode上的linux远程开发配置
 tag: linux
+categories: linux
 cover: /images/lsp/1.jpg
 ---
 

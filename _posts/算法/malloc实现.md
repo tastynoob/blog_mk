@@ -1,7 +1,7 @@
 ---
 title: malloc实现
-tag: 操作系统
-categories: 技术
+tag: 技术
+categories: 算法
 ---
 
 
@@ -15,9 +15,10 @@ malloc实现
 首先是贴代码
 
 * 块式管理
-```
-#include <stdio.h>
 
+
+```c
+#include <stdio.h>
 
 typedef unsigned int u32;
 
@@ -97,7 +98,7 @@ int main() {
 * 链式管理
 
 
-```
+```c
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>

@@ -1,7 +1,7 @@
 ---
 title: FPGA-RISCV内核入门4
 tag: riscv
-categories: 技术
+categories: FPGA
 ---
 
 接下来我们就开始设计一个简单的取指单元
