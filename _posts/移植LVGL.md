@@ -1,6 +1,6 @@
 ---
 title: 移植LVGL
-tag: module
+tag: LVGL
 categories: 框架
 ---
 
@@ -50,7 +50,7 @@ lvgl.h和lv_conf_template.h文件
 
 然后是更改lv_conf.h里面的设置
 找到：
-```c++
+```cpp
 
 //设置屏幕的像素宽
 #define LV_HOR_RES_MAX          (480)
@@ -96,7 +96,7 @@ lvgl.h和lv_conf_template.h文件
 
 在lv_port_disp.c中找到lv_port_disp_init函数
 
-```c++
+```cpp
 
 /* Example for 1) */
 static lv_disp_buf_t draw_buf_dsc_1;
@@ -124,7 +124,7 @@ lv_disp_buf_init(&draw_buf_dsc_3, draw_buf_3_1, draw_buf_3_2, LV_HOR_RES_MAX * L
 
 在上面的代码下找到这2行
 
-```C++
+```cpp
 
 //显示范围宽度
 disp_drv.hor_res = 480;
@@ -135,7 +135,7 @@ disp_drv.ver_res = 320;
 
 在下面找到disp_flush函数，这个函数就是核心的显示屏刷屏函数
 
-```c++
+```cpp
 
 //参数说明：
 //disp_drv:不用管
@@ -170,7 +170,7 @@ static void disp_flush(lv_disp_drv_t * disp_drv, const lv_area_t * area, lv_colo
 
 接下来做个简单的测试
 
-```c++
+```cpp
 #inclue "lvgl.h"
 
 
@@ -224,7 +224,7 @@ lv_port_indev.c里面提供的接口比较多，这里只介绍编写触摸按�
 找到一下代码
 
 
-```c++
+```cpp
 
     /*------------------
      * Button
@@ -258,7 +258,7 @@ lv_port_indev.c里面提供的接口比较多，这里只介绍编写触摸按�
 然后找到按钮的接口
 
 
-```C++
+```cpp
 
 
 /*Get ID  (0, 1, 2 ..) of the pressed button*/
@@ -300,7 +300,7 @@ static bool button_is_pressed(uint8_t id)
 
 同样再做一个小测试
 
-```c++
+```cpp
 #inclue "lvgl.h"
 
 

@@ -1,7 +1,7 @@
 ---
 title: 基于gd32vf的真·多线程系统
-tag: riscv
-categories: 技术
+tag: [系统,riscv]
+categories: 其它
 cover: /images/lsp/2.jpg
 ---
 

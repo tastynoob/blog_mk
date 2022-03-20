@@ -1,7 +1,7 @@
 ---
 title: GD32V运行速度慢的解决方法
 tag: riscv
-categories: 技术
+categories: 其它
 cover: /images/lsp/2.jpg
 ---
 

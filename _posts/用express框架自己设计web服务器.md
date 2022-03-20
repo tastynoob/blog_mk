@@ -1,7 +1,7 @@
 ---
 title: 用express框架自己设计web服务器
-tag: js
-categories: 技术
+tag: nodejs
+categories: 框架
 cover: /images/lsp/2.jpg
 ---
 

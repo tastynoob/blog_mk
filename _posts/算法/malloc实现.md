@@ -1,6 +1,6 @@
 ---
 title: malloc实现
-tag: 技术
+tag: 系统
 categories: 算法
 ---
 

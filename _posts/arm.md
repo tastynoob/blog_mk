@@ -1,7 +1,7 @@
 ---
 title: arm汇编汇总
 tag: arm
-categories: 技术
+categories: 其它
 cover: /images/cover/cover0.jpg
 coverWidth: 600
 coverHeight: 303

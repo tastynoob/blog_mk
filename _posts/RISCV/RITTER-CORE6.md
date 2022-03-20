@@ -1,7 +1,7 @@
 ---
 title: FPGA-RISCV内核入门6
 tag: riscv
-categories: FPGA
+categories: fpga
 ---
 
 取指段及译码段细节分析

@@ -1,7 +1,7 @@
 ---
 title: 如何使用vscode舒适的开发嵌入式
-tag: 攻略
-categories: 技术
+tag: vscode
+categories: 其它
 cover: /images/lsp/vscode.jpg
 ---
 

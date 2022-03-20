@@ -1,7 +1,7 @@
 ---
 title: longan-gd32v vscode环境配置
-tag: mcu
-categories: riscv
+tag: [riscv,vscode]
+categories: 其它
 ---
 longan-gd32v vscode环境配置
 <!--more-->

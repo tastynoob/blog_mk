@@ -1,7 +1,7 @@
 ---
 title: FPGA-RISCV内核入门2
 tag: riscv
-categories: FPGA
+categories: fpga
 ---
 
 FPGA-RISCV内核入门
