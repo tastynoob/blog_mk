@@ -3,8 +3,6 @@ title: arm汇编汇总
 tag: arm
 categories: 其它
 cover: /images/cover/cover0.jpg
-coverWidth: 600
-coverHeight: 303
 ---
 当初学<font color = blue>stm32</font>时因为一个想法，然后就走入了arm汇编的世界，这里就来汇总一下。
 <!--more-->

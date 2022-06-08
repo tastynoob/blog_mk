@@ -1,6 +1,8 @@
 ---
 title: PID算法
-tag: 技术
+tag: 
+    - [技术]
+    - [信号处理]
 categories: 算法
 cover: /images/lsp/7.jpg
 ---

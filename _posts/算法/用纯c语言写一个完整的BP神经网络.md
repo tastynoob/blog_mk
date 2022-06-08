@@ -1,7 +1,9 @@
 ---
 title: 用纯c语言写一个完整的BP神经网络
 tag: 神经网络
-categories: 算法
+categories: 
+    - [算法]
+    - [人工智能]
 date: 2020-04-22 18:13:00
 cover: /images/lsp/0.jpg
 ---

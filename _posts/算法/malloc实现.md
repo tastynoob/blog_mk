@@ -2,6 +2,7 @@
 title: malloc实现
 tag: 系统
 categories: 算法
+cover: /images/lsp/4.jpg
 ---
 
 
@@ -184,7 +185,10 @@ void* myalloc(u32 sizeofbyte) {
                         temp->next = temp1;
                         temp->size = real_size;
                     }
-
+                    else{
+                        real_size=temp->size;
+                    }
+                    
                     temp->avaliable = 1;
                     break;
                 }

@@ -1,7 +1,11 @@
 ---
 title: 基于gd32vf的真·多线程系统
-tag: [系统,riscv]
-categories: 其它
+tag: 
+    - [系统]
+    - [riscv]
+categories: 
+    - [其它]
+    - [框架]
 cover: /images/lsp/2.jpg
 ---
 
