@@ -158,10 +158,11 @@ class Test extends Module{
     })
     val reg = Reg(UInt(32.W))
 
+    reg := io.in1
     when(io.en0){
         reg := io.in0
     }
-    reg := io.in1
+    
     io.out := reg
 }
 ```
